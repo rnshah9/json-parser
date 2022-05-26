@@ -1,5 +1,5 @@
 project: rnshah9/json-parser
-target: json-parser
+target: parse-json
 
 cmds:
   - cmd: /repo/parse_json
