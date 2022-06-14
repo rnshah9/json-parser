@@ -1,4 +1,4 @@
-project: rnshah9/json-parser
+project: json-parser
 target: parse-json
 
 cmds:
