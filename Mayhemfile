@@ -2,4 +2,4 @@ project: json-parser
 target: parse-json
 
 cmds:
-  - cmd: /repo/parse_json
+  - cmd: /parse_json
